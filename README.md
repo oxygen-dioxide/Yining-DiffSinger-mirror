@@ -3,7 +3,7 @@ Yining (苡柠) is a Chinese diffsinger voicebank. This repo is a mirror site of
 
 ## [Download This Voicebank](https://github.com/oxygen-dioxide/Yining-DiffSinger-mirror/releases)
 
-## [Terms of uses](License.md)
+## [Terms of uses](LICENSE.md)
 
 ## Links
 Voice provider: 苡柠 https://space.bilibili.com/699606764
